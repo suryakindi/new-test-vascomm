@@ -1,3 +1,10 @@
+1. Clone Project
+2. Change dir di project
+3. composer install di command "composer install"
+4. php artisan migrate:fresh di command "php artisan migrate:fresh"
+5. seeding di command "php artisan db:seed"
+6. php artisan serve
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
